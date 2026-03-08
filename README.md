@@ -1,9 +1,11 @@
-🎓 Student Management System (Java)
+## 🎓 Student Management System (Java)
 
 A simple Java console-based CRUD application to manage student records.
 It allows users to add, view, update, and delete students using an in-memory data structure.
 
-📌 Features
+---
+
+## 📌 Features
 
 ➕ Add a new student (ID, Name, Marks)
 
@@ -17,7 +19,9 @@ It allows users to add, view, update, and delete students using an in-memory dat
 
 Menu-driven and user-friendly
 
-🛠 Technologies Used
+---
+
+## 🛠 Technologies Used
 
 Java (Core Java)
 
@@ -33,7 +37,10 @@ ArrayList
 
 Scanner for user input
 
-📂 Project Structure
+---
+
+## 📂 Project Structure
+
 StudentManagement.java
 
 Classes
@@ -46,7 +53,9 @@ StudentManagement
 
 Handles menu, CRUD operations, and program flow
 
-▶️ How to Run
+---
+
+## ▶️ How to Run
 
 Install Java JDK
 
@@ -61,7 +70,10 @@ Run:
 
 java StudentManagement
 
-🧑‍💻 Menu Options
+---
+
+## 🧑‍💻 Menu Options
+
 1.Add  2.View  3.Update  4.Delete  5.Exit
 
 📸 Sample Output
@@ -80,7 +92,9 @@ Updated Successfully
 Enter ID to delete: 101
 Deleted Successfully
 
-📈 Future Enhancements
+---
+
+## 📈 Future Enhancements
 
 Prevent duplicate student IDs
 
@@ -92,7 +106,9 @@ Search student by ID or name
 
 GUI version using Swing / JavaFX
 
-🎯 Learning Outcomes
+---
+
+## 🎯 Learning Outcomes
 
 This project helps understand:
 
@@ -104,6 +120,8 @@ ArrayList manipulation
 
 Object-Oriented Programming basics
 
-📄 License
+---
+
+## 📄 License
 
 This project is free to use for educational and learning purposes.
